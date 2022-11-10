@@ -1,0 +1,10 @@
+[
+  {
+    "appName": "Moe",
+    "appDomains": [
+      "localhost:8080"
+    ],
+    "appModels": [],
+    "appAddrs": null
+  }
+]
