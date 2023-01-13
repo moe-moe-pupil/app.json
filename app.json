@@ -2,6 +2,16 @@
   {
     "appName": "Moe",
     "appDomains": [
+      'qweqeqwwqrwerfhkljh'
+      "localhost:8081"
+    ],
+    "appModels": [],
+    "appAddrs": null
+  },
+  {
+    "appName": "Moe2",
+    "appDomains": [
+      "moe2.com",
       "localhost:8080"
     ],
     "appModels": [],
